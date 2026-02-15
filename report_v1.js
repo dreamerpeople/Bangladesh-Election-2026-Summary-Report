@@ -454,7 +454,6 @@ function generateHTML(stats) {
             background: linear-gradient(135deg, #4caf50 0%, #45a049 100%);
             color: white;
             box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
-            margin:2px;
         }
         
         .candidate-name-block img {
@@ -738,67 +737,6 @@ function generateHTML(stats) {
             50% { transform: translateX(10px); }
         }
 
-        /* Mobile expand/collapse functionality */
-        .expand-btn {
-            display: none;
-            background: #667eea;
-            color: white;
-            border: none;
-            width: 36px;
-            height: 36px;
-            border-radius: 50%;
-            cursor: pointer;
-            font-size: 1.2em;
-            font-weight: bold;
-            transition: all 0.3s ease;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-        }
-
-        .expand-btn:hover {
-            background: #764ba2;
-            transform: scale(1.1);
-        }
-
-        .expand-btn.expanded {
-            background: #f44336;
-        }
-
-        .row-details {
-            display: none;
-            background: #f8f9fa;
-            padding: 15px;
-            margin: 10px 0;
-            border-radius: 8px;
-            border-left: 4px solid #667eea;
-            animation: slideDown 0.3s ease;
-        }
-
-        .row-details.show {
-            display: block;
-        }
-
-        .detail-item {
-            display: flex;
-            justify-content: space-between;
-            padding: 10px 0;
-            border-bottom: 1px solid #e0e0e0;
-        }
-
-        .detail-item:last-child {
-            border-bottom: none;
-        }
-
-        .detail-label {
-            font-weight: 600;
-            color: #2c3e50;
-            margin-right: 10px;
-        }
-
-        .detail-value {
-            text-align: right;
-            color: #555;
-        }
-
         .table-container {
             overflow-x: auto;
             border-radius: 0 0 12px 12px;
@@ -847,6 +785,11 @@ function generateHTML(stats) {
             white-space: nowrap;
         }
 
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
         tbody tr {
             transition: background-color 0.2s ease;
         }
@@ -869,13 +812,11 @@ function generateHTML(stats) {
             font-weight: 600;
             color: #667eea;
             white-space: nowrap;
-             text-align: center;
         }
 
         .winner-row .votes {
             color: #4caf50;
             font-size: 1.1em;
-           
         }
 
         .badge {
@@ -1046,11 +987,9 @@ function generateHTML(stats) {
         }
 
         @media (max-width: 768px) {
-        .header{    padding: 20px 10px;}
             .header-content-logo-area {
                 flex-direction: column;
                 text-align: center;
-                    gap: 0px;
             }
 
             .logo {
@@ -1059,10 +998,9 @@ function generateHTML(stats) {
             }
 
             h1 {
-                font-size: 1.5em;
+                font-size: 1.8em;
             }
-                  .election-info {}
-            .summary h2{font-size: 1.5em;}
+            .summary h2{font-size: 1.8em;}
             .bangla-title {
                 font-size: 1.5em;
                 margin-top: 10px;
@@ -1102,51 +1040,6 @@ function generateHTML(stats) {
             
             th, td {
                 padding: 8px;
-            }
-
-            /* Show expand button on mobile */
-            .expand-btn {
-                display: inline-block;
-            }
-
-            /* Hide extended columns on mobile by default */
-            table {
-                min-width: auto;
-            }
-
-            thead th:nth-child(n+5),
-            tbody td:nth-child(n+5) {
-                display: none;
-            }
-
-            /* Keep first 4 columns visible: Division, District, Seat ID, Seat Name, Expand Button */
-            thead th:nth-child(-n+4),
-            tbody td:nth-child(-n+4) {
-                display: table-cell;
-            }
-
-            /* Add expand column header */
-            thead th:first-child::before {
-                content: '';
-            }
-
-            th, td {
-                font-size: 0.85em;
-                padding: 10px 8px;
-            }
-
-            .candidate-name-block {
-                padding: 10px;
-                min-height: 80px;
-            }
-
-            .candidate-name-block img {
-                width: 35px;
-                height: 35px;
-            }
-
-            .candidate-name-block h4 {
-                font-size: 0.9em;
             }
         }
     </style>
@@ -1330,9 +1223,6 @@ function generateHTML(stats) {
                     <table id="combinedTable">
                         <thead>
                             <tr>
-                                <th>
-                                    <button class="expand-btn" style="visibility: hidden;">+</button>
-                                </th>
                                 <th>Division</th>
                                 <th>District</th>
                                 <th>Seat ID</th>
@@ -1346,7 +1236,7 @@ function generateHTML(stats) {
                             </tr>
                         </thead>
                         <tbody>
-                            ${stats.combinedSeats.map((c, index) => {
+                            ${stats.combinedSeats.map(c => {
                                 const voteDiff = c.BNPVotes - c.AllianceVotes;
                                 const diffClass = voteDiff > 0 ? 'positive' : 'negative';
                                 return `
@@ -1355,11 +1245,7 @@ function generateHTML(stats) {
                                     data-winner="${c.Winner ? 'winner' : 'non-winner'}"
                                     data-bnp-votes="${c.BNPVotes}"
                                     data-alliance-votes="${c.AllianceVotes}"
-                                    data-seat-id="${c.SeatId}"
-                                    data-row-index="${index}">
-                                    <td>
-                                        <button class="expand-btn" onclick="toggleRowDetails(${index})">+</button>
-                                    </td>
+                                    data-seat-id="${c.SeatId}">
                                     <td>${c.Division}</td>
                                     <td>${c.District}</td>
                                     <td>${c.SeatId}</td>
@@ -1382,50 +1268,6 @@ function generateHTML(stats) {
                                     <td class="votes alliance-votes">${c.AllianceVotes.toLocaleString()}</td>
                                     <td class="vote-difference ${diffClass}">${voteDiff > 0 ? '+' : ''}${voteDiff.toLocaleString()}</td>
                                     <td class="${c.Winner ? 'winner-cell' : ''} winner-column">${c.Winner === 'BNP' ? '<span class="winner-badge-inline">BNP</span>' : c.Winner === 'Alliance' ? '<span class="winner-badge-inline">NCP/Jamaat Alliance</span>' : '-'}</td>
-                                </tr>
-                                <tr class="row-details" id="details-${index}" style="display: none;">
-                                    <td colspan="11">
-                                        <div class="detail-item">
-                                            <span class="detail-label">🏛️ Division:</span>
-                                            <span class="detail-value">${c.Division}</span>
-                                        </div>
-                                        <div class="detail-item">
-                                            <span class="detail-label">📍 District:</span>
-                                            <span class="detail-value">${c.District}</span>
-                                        </div>
-                                        <div class="detail-item">
-                                            <span class="detail-label">🆔 Seat ID:</span>
-                                            <span class="detail-value">${c.SeatId}</span>
-                                        </div>
-                                        <div class="detail-item">
-                                            <span class="detail-label">💺 Seat Name:</span>
-                                            <span class="detail-value">${c.SeatName}</span>
-                                        </div>
-                                        <div class="detail-item">
-                                            <span class="detail-label">👤 BNP Candidate:</span>
-                                            <span class="detail-value">${c.BNPCandidate}</span>
-                                        </div>
-                                        <div class="detail-item">
-                                            <span class="detail-label">🗳️ BNP Votes:</span>
-                                            <span class="detail-value"><strong>${c.BNPVotes.toLocaleString()}</strong></span>
-                                        </div>
-                                        <div class="detail-item">
-                                            <span class="detail-label">👤 Alliance Candidate:</span>
-                                            <span class="detail-value">${c.AllianceCandidate}</span>
-                                        </div>
-                                        <div class="detail-item">
-                                            <span class="detail-label">🗳️ Alliance Votes:</span>
-                                            <span class="detail-value"><strong>${c.AllianceVotes.toLocaleString()}</strong></span>
-                                        </div>
-                                        <div class="detail-item">
-                                            <span class="detail-label">📊 Vote Difference:</span>
-                                            <span class="detail-value vote-difference ${diffClass}">${voteDiff > 0 ? '+' : ''}${voteDiff.toLocaleString()}</span>
-                                        </div>
-                                        <div class="detail-item">
-                                            <span class="detail-label">🏆 Winner:</span>
-                                            <span class="detail-value"><strong>${c.Winner === 'BNP' ? '🟢 BNP' : c.Winner === 'Alliance' ? '🟢 NCP/Jamaat Alliance' : '-'}</strong></span>
-                                        </div>
-                                    </td>
                                 </tr>
                             `}).join('')}
                         </tbody>
@@ -1478,25 +1320,9 @@ function generateHTML(stats) {
             
             for (let i = 0; i < rows.length; i++) {
                 const row = rows[i];
-                
-                // Skip detail rows
-                if (row.classList.contains('row-details')) {
-                    continue;
-                }
-                
-                // Get attributes safely
-                const divisionAttr = row.getAttribute('data-division');
-                const winnerAttr = row.getAttribute('data-winner');
-                
-                // Skip rows without required attributes
-                if (!divisionAttr || !winnerAttr) {
-                    row.style.display = 'none';
-                    continue;
-                }
-                
                 const text = row.textContent.toLowerCase();
-                const division = divisionAttr.toLowerCase();
-                const winner = winnerAttr;
+                const division = row.getAttribute('data-division').toLowerCase();
+                const winner = row.getAttribute('data-winner');
                 
                 const matchesSearch = text.includes(searchValue);
                 const matchesDivision = !divisionValue || division === divisionValue;
@@ -1564,33 +1390,8 @@ function generateHTML(stats) {
             
             for (let i = 0; i < rows.length; i++) {
                 const row = rows[i];
-                
-                // Skip detail rows
-                if (row.classList.contains('row-details')) {
-                    continue;
-                }
-                
-                // Get original votes from data attributes
                 const originalBNPVotes = parseInt(row.getAttribute('data-bnp-votes'));
                 const originalAllianceVotes = parseInt(row.getAttribute('data-alliance-votes'));
-                
-                // Skip rows with invalid data
-                if (isNaN(originalBNPVotes) || isNaN(originalAllianceVotes)) {
-                    continue;
-                }
-                
-                // Check if required elements exist
-                const bnpVotesCell = row.querySelector('.bnp-votes');
-                const allianceVotesCell = row.querySelector('.alliance-votes');
-                const diffCell = row.querySelector('.vote-difference');
-                const bnpBlock = row.querySelector('[data-party="BNP"]');
-                const allianceBlock = row.querySelector('[data-party="Alliance"]');
-                const winnerCell = row.querySelector('.winner-column');
-                
-                // Skip rows without required elements
-                if (!bnpVotesCell || !allianceVotesCell || !diffCell || !winnerCell) {
-                    continue;
-                }
                 
                 // Calculate total votes for this seat
                 const totalVotes = originalBNPVotes + originalAllianceVotes;
@@ -1601,32 +1402,38 @@ function generateHTML(stats) {
                 const newAllianceVotes = Math.max(0, originalAllianceVotes + changeAmount);
                 
                 // Update vote displays
+                const bnpVotesCell = row.querySelector('.bnp-votes');
+                const allianceVotesCell = row.querySelector('.alliance-votes');
                 bnpVotesCell.textContent = newBNPVotes.toLocaleString();
                 allianceVotesCell.textContent = newAllianceVotes.toLocaleString();
                 
                 // Calculate vote difference
                 const voteDiff = newBNPVotes - newAllianceVotes;
+                const diffCell = row.querySelector('.vote-difference');
                 diffCell.textContent = (voteDiff > 0 ? '+' : '') + voteDiff.toLocaleString();
                 diffCell.className = 'vote-difference ' + (voteDiff > 0 ? 'positive' : 'negative');
                 
                 // Determine winner
                 let winner = null;
+                const bnpBlock = row.querySelector('[data-party="BNP"]');
+                const allianceBlock = row.querySelector('[data-party="Alliance"]');
                 
-                // Remove existing winner highlights if blocks exist
-                if (bnpBlock) bnpBlock.classList.remove('winner-highlighted');
-                if (allianceBlock) allianceBlock.classList.remove('winner-highlighted');
+                // Remove existing winner highlights
+                bnpBlock.classList.remove('winner-highlighted');
+                allianceBlock.classList.remove('winner-highlighted');
                 
                 if (newBNPVotes > newAllianceVotes) {
                     winner = 'BNP';
-                    if (bnpBlock) bnpBlock.classList.add('winner-highlighted');
+                    bnpBlock.classList.add('winner-highlighted');
                     bnpWins++;
                 } else if (newAllianceVotes > newBNPVotes) {
                     winner = 'Alliance';
-                    if (allianceBlock) allianceBlock.classList.add('winner-highlighted');
+                    allianceBlock.classList.add('winner-highlighted');
                     allianceWins++;
                 }
                 
                 // Update winner column
+                const winnerCell = row.querySelector('.winner-column');
                 if (winner === 'BNP') {
                     winnerCell.innerHTML = '<span class="winner-badge-inline">BNP</span>';
                     winnerCell.className = 'winner-cell winner-column';
@@ -1675,7 +1482,7 @@ function generateHTML(stats) {
             
             // Update table header title
             const headerTitle = document.getElementById('tableHeaderTitle');
-            headerTitle.innerHTML = '<svg width="35" height="35" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> <span class="party-header-text">Simulation Applied: Bangladesh Election 2026 Vote count of 300 seats</span>';
+            headerTitle.innerHTML = '<svg width="35" height="35" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> Simulation Applied: Bangladesh Election 2026 Vote count of 300 seats';
             
             // Show info box and update percentage
             const infoBox = document.getElementById('simulationInfoBox');
@@ -1698,61 +1505,41 @@ function generateHTML(stats) {
             
             for (let i = 0; i < rows.length; i++) {
                 const row = rows[i];
-                
-                // Skip detail rows
-                if (row.classList.contains('row-details')) {
-                    continue;
-                }
-                
-                // Get original votes from data attributes
                 const originalBNPVotes = parseInt(row.getAttribute('data-bnp-votes'));
                 const originalAllianceVotes = parseInt(row.getAttribute('data-alliance-votes'));
                 
-                // Skip rows with invalid data
-                if (isNaN(originalBNPVotes) || isNaN(originalAllianceVotes)) {
-                    continue;
-                }
-                
-                // Check if required elements exist
+                // Restore original votes
                 const bnpVotesCell = row.querySelector('.bnp-votes');
                 const allianceVotesCell = row.querySelector('.alliance-votes');
-                const diffCell = row.querySelector('.vote-difference');
-                const bnpBlock = row.querySelector('[data-party="BNP"]');
-                const allianceBlock = row.querySelector('[data-party="Alliance"]');
-                const winnerCell = row.querySelector('.winner-column');
-                
-                // Skip rows without required elements
-                if (!bnpVotesCell || !allianceVotesCell || !diffCell || !winnerCell) {
-                    continue;
-                }
-                
-                // Restore original votes
                 bnpVotesCell.textContent = originalBNPVotes.toLocaleString();
                 allianceVotesCell.textContent = originalAllianceVotes.toLocaleString();
                 
                 // Restore vote difference
                 const voteDiff = originalBNPVotes - originalAllianceVotes;
+                const diffCell = row.querySelector('.vote-difference');
                 diffCell.textContent = (voteDiff > 0 ? '+' : '') + voteDiff.toLocaleString();
                 diffCell.className = 'vote-difference ' + (voteDiff > 0 ? 'positive' : 'negative');
                 
                 // Restore winner
                 let winner = null;
+                const bnpBlock = row.querySelector('[data-party="BNP"]');
+                const allianceBlock = row.querySelector('[data-party="Alliance"]');
                 
-                // Remove existing winner highlights if blocks exist
-                if (bnpBlock) bnpBlock.classList.remove('winner-highlighted');
-                if (allianceBlock) allianceBlock.classList.remove('winner-highlighted');
+                bnpBlock.classList.remove('winner-highlighted');
+                allianceBlock.classList.remove('winner-highlighted');
                 
                 if (originalBNPVotes > originalAllianceVotes) {
                     winner = 'BNP';
-                    if (bnpBlock) bnpBlock.classList.add('winner-highlighted');
+                    bnpBlock.classList.add('winner-highlighted');
                     bnpWins++;
                 } else if (originalAllianceVotes > originalBNPVotes) {
                     winner = 'Alliance';
-                    if (allianceBlock) allianceBlock.classList.add('winner-highlighted');
+                    allianceBlock.classList.add('winner-highlighted');
                     allianceWins++;
                 }
                 
                 // Restore winner column
+                const winnerCell = row.querySelector('.winner-column');
                 if (winner === 'BNP') {
                     winnerCell.innerHTML = '<span class="winner-badge-inline">BNP</span>';
                     winnerCell.className = 'winner-cell winner-column';
@@ -1798,7 +1585,7 @@ function generateHTML(stats) {
             
             // Reset table header title to default
             const headerTitle = document.getElementById('tableHeaderTitle');
-            headerTitle.innerHTML = '<svg width="35" height="35" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> <span class="party-header-text">Bangladesh Election 2026 Vote count of 300 seats</span>';
+            headerTitle.innerHTML = '<svg width="35" height="35" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> Bangladesh Election 2026 Vote count of 300 seats';
             
             // Hide info box
             const infoBox = document.getElementById('simulationInfoBox');
@@ -1818,20 +1605,6 @@ function generateHTML(stats) {
             scrollHint.style.display = 'none';
             tableContainer.classList.remove('has-scroll');
         }
-
-        function toggleRowDetails(index) {
-            const detailsRow = document.getElementById('details-' + index);
-            const expandBtn = document.querySelector('tr[data-row-index="' + index + '"] .expand-btn');
-            if (detailsRow.style.display === 'none') {
-                detailsRow.style.display = 'table-row';
-                expandBtn.textContent = '−';
-                expandBtn.classList.add('expanded');
-            } else {
-                detailsRow.style.display = 'none';
-                expandBtn.textContent = '+';
-                expandBtn.classList.remove('expanded');
-            }
-        }
     </script>
 </body>
 </html>`;
@@ -1841,20 +1614,15 @@ function generateHTML(stats) {
 const stats = processData(data);
 const html = generateHTML(stats);
 
-// Write HTML files
+// Write HTML file
 const outputPath = path.join(__dirname, 'out', 'election_report_2026.html');
-const indexPath = path.join(__dirname, 'index.html');
-
 fs.writeFileSync(outputPath, html, 'utf8');
-fs.writeFileSync(indexPath, html, 'utf8');
 
-console.log('✅ HTML Reports generated successfully!');
-console.log(`📄 Output files:`);
-console.log(`   - ${outputPath}`);
-console.log(`   - ${indexPath}`);
+console.log('✅ HTML Report generated successfully!');
+console.log(`📄 Output file: ${outputPath}`);
 console.log(`\n📊 Summary:`);
 console.log(`   BNP wins: ${stats.bnpWins} seats`);
 console.log(`   Alliance wins: ${stats.allianceWins} seats`);
 console.log(`   BNP total votes: ${stats.bnpTotalVotes.toLocaleString()}`);
 console.log(`   Alliance total votes: ${stats.allianceTotalVotes.toLocaleString()}`);
-console.log(`\n🌐 Open the files in your browser to view the report.`);
+console.log(`\n🌐 Open the file in your browser to view the report.`);
