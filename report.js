@@ -988,7 +988,7 @@ function generateHTML(stats) {
             <div class="header-content">
                 <div class="header-content-logo-area">
                     <div class="logo">
-                        <img src="../ec.png" alt="Bangladesh Election Commission Logo">
+                        <img src="ec.png" alt="Bangladesh Election Commission Logo">
                     </div>
                     <h1>Bangladesh 13th Election Result Summary Report 2026</h1>
                 </div>
@@ -1086,7 +1086,7 @@ function generateHTML(stats) {
             <!-- Statistics Cards -->
             <div class="stats-grid" id="statsGrid">
                 <div class="stat-card bnp" id="bnpStatCard">
-                    <img src="../bnp_logo.jpg" alt="BNP Logo" class="logo-party">
+                    <img src="bnp_logo.jpg" alt="BNP Logo" class="logo-party">
                     <div class="stat-info">
                         <div class="stat-label">BNP</div>
                         <div class="stat-number" id="bnpSeatsWon">${stats.bnpWins}</div>
@@ -1098,7 +1098,7 @@ function generateHTML(stats) {
                 </div>
                 
                 <div class="stat-card alliance" id="allianceStatCard">
-                    <img src="../NCP.jpg" alt="Alliance Logo" class="logo-party">
+                    <img src="NCP.jpg" alt="Alliance Logo" class="logo-party">
                     <div class="stat-info">
                         <div class="stat-label">NCP/Jamaat Alliance</div>
                         <div class="stat-number" id="allianceSeatsWon">${stats.allianceWins}</div>
@@ -1126,15 +1126,15 @@ function generateHTML(stats) {
                 
                <!-- <div class="party-logo-header">
                     <div class="party-logo-item">
-                        <img src="../bnp_logo.jpg" alt="BNP Logo">
+                        <img src="bnp_logo.jpg" alt="BNP Logo">
                         <div class="party-name">BNP</div>
                     </div>
                     <div class="party-logo-item">
-                        <img src="../NCP.jpg" alt="NCP Logo">
+                        <img src="NCP.jpg" alt="NCP Logo">
                         <div class="party-name">National Change Party (NCP)</div>
                     </div>
                     <div class="party-logo-item">
-                        <img src="../jamat.jpg" alt="Jamaat Logo">
+                        <img src="jamat.jpg" alt="Jamaat Logo">
                         <div class="party-name">Bangladesh Jamaat-e-Islami</div>
                     </div>
                 </div>-->
@@ -1185,7 +1185,7 @@ function generateHTML(stats) {
                                     <td>${c.SeatName}</td>
                                     <td>
                                         <div class="candidate-name-block ${c.Winner === 'BNP' ? 'winner-highlighted' : ''}" data-party="BNP">
-                                            <img src="../bnp_logo.jpg" alt="BNP Logo">
+                                            <img src="bnp_logo.jpg" alt="BNP Logo">
                                             <h4>${c.BNPCandidate}</h4>
                                             <div class="party-label">BNP</div>
                                         </div>
@@ -1193,7 +1193,7 @@ function generateHTML(stats) {
                                     <td class="votes bnp-votes">${c.BNPVotes.toLocaleString()}</td>
                                     <td>
                                         <div class="candidate-name-block ${c.Winner === 'Alliance' ? 'winner-highlighted' : ''}" data-party="Alliance">
-                                            <img src="../NCP.jpg" alt="Alliance Logo">
+                                            <img src="NCP.jpg" alt="Alliance Logo">
                                             <h4>${c.AllianceCandidate}</h4>
                                             <div class="party-label">NCP/Jamaat Alliance</div>
                                         </div>
@@ -1213,7 +1213,7 @@ function generateHTML(stats) {
         <div class="footer"> 
             <div class="footer-content">
                 <div class="footer-logo">
-                    <img src="../ec.png" alt="Bangladesh Election Commission Logo">
+                    <img src="ec.png" alt="Bangladesh Election Commission Logo">
                 </div>
                 <div class="footer-title">Bangladesh 13th National Election - 2026</div>
                 <div class="footer-bangla">১৩তম জাতীয় সংসদ নির্বাচন</div>
