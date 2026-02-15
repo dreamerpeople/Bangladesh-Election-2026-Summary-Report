@@ -863,9 +863,11 @@ function generateHTML(stats) {
             border-radius: 10px;
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.2);
+                text-align: center;
         }
 
         .footer-section h3 {
+            justify-content: center;
             font-size: 1.2em;
             margin-bottom: 15px;
             display: flex;
@@ -1217,16 +1219,7 @@ function generateHTML(stats) {
                 <div class="footer-bangla">১৩তম জাতীয় সংসদ নির্বাচন</div>
                 <div class="footer-divider"></div>
                 <div class="footer-info">
-                    <div class="footer-section">
-                        <h3>
-                            <svg class="footer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-                            </svg>
-                            Created By
-                        </h3>
-                        <p>Md Mahamudul Hasan</p>
-                        <p>Data Scientist & AI Software Engeenier</p>
-                    </div>
+                    
                     <div class="footer-section">
                         <h3>
                             <svg class="footer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
@@ -1239,7 +1232,7 @@ function generateHTML(stats) {
                     </div>
                 </div>
                 <div class="footer-date">Generated on ${new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</div>
-                <div class="footer-copyright">© 2026 Bangladesh Election Commission</div>
+                <div class="footer-copyright">© 2026 Dreamer People LLC</div>
             </div>
         </div>
     </div>

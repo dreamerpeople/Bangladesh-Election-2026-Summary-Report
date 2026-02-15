@@ -1,16 +1,16 @@
 #!/usr/bin/env node
 /**
- * Election 2026 Election Scraper
+ * TheDailyStar 2026 Election Scraper
  * -----------------------------------
  * Scrapes per-constituency vote counts for BNP and NCP/Jamaat (alliance)
- * from: https://www.Election.net/election2026data
+ * from: https://www.thedailystar.net/election2026data
  *
  * Output:
  *   - out/bnp_vs_alliance_detail.json (nested: Division → District → Candidates)
  *
  * Notes:
  *  - Uses Puppeteer with stealth plugin to bypass Cloudflare
- *  - Fetches all 300 seats dynamically from Election API
+ *  - Fetches all 300 seats dynamically from TheDailyStar API
  *  - Parses candidate data from HTML cards with vote counts
  */
 
@@ -29,11 +29,11 @@ puppeteer.use(StealthPlugin());
 // Import the summary detail module
 const summaryDetail = require('./summary_detail');
 
-const BASE = 'https://www.Election.net/election2026data';
-const ORIGIN = 'https://www.Election.net';
-const API_BASE = 'https://www.Election.net/api/districts/district';
+const BASE = 'https://www.thedailystar.net/election2026data';
+const ORIGIN = 'https://www.thedailystar.net';
+const API_BASE = 'https://www.thedailystar.net/api/districts/district';
 const OUT_DIR = path.join(process.cwd(), 'out');
-const CONCURRENCY = 3; // be polite to Election
+const CONCURRENCY = 3; // be polite to TheDailyStar
 const TIMEOUT_MS = 30_000;
 
 // Party normalization + alliance rules
@@ -44,7 +44,7 @@ const PARTY_MAP = {
 };
 const ALLIANCE_KEYS = ['JAMAAT', 'NCP']; // treat as one "NCP/Jamaat (alliance)"
 
-// Division ID mapping for Election
+// Division ID mapping for TheDailyStar
 const DIVISION_MAP = {
   '283793': 'Barisal',
   '284038': 'Chattogram',
@@ -81,7 +81,7 @@ function mapParty(raw) {
   return { canonical: clean(raw), key: null };
 }
 
-// Fetch districts for a division using Election API
+// Fetch districts for a division using TheDailyStar API
 async function fetchDistrictsForDivision(divisionId, browser) {
   const url = `${ORIGIN}/api/districts/division/${divisionId}`;
   const page = await browser.newPage();
@@ -108,7 +108,7 @@ async function fetchDistrictsForDivision(divisionId, browser) {
   return districts;
 }
 
-// Fetch seats for a district using Election API
+// Fetch seats for a district using TheDailyStar API
 async function fetchSeatsForDistrict(districtId, browser) {
   const url = `${API_BASE}/${districtId}/seats`;
   const page = await browser.newPage();
@@ -235,7 +235,7 @@ async function main() {
   });
   console.log('✅ Puppeteer launched\n');
 
-  console.log('📡 Fetching all constituencies from Election API...\n');
+  console.log('📡 Fetching all constituencies from TheDailyStar API...\n');
   
   const seatDetails = [];
   let totalBNP = 0;
