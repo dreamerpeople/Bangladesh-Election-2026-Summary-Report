@@ -604,16 +604,66 @@
             border-color: #667eea;
         }
 
+        .scroll-hint {
+            display: none;
+            background: #667eea;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            font-size: 0.9em;
+            font-weight: 600;
+            border-left: 3px solid #667eea;
+            border-right: 3px solid #667eea;
+            animation: pulseHint 2s ease-in-out infinite;
+        }
+
+        @keyframes pulseHint {
+            0%, 100% { background: #667eea; }
+            50% { background: #764ba2; }
+        }
+
+        .scroll-hint svg {
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 8px;
+            animation: slideRight 1.5s ease-in-out infinite;
+        }
+
+        @keyframes slideRight {
+            0%, 100% { transform: translateX(0); }
+            50% { transform: translateX(10px); }
+        }
+
         .table-container {
             overflow-x: auto;
             border-radius: 0 0 12px 12px;
             box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            position: relative;
+            -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+        }
+
+        .table-container::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            width: 30px;
+            background: linear-gradient(to left, rgba(255,255,255,0.9), transparent);
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .table-container.has-scroll::after {
+            opacity: 1;
         }
 
         table {
             width: 100%;
             border-collapse: collapse;
             background: white;
+            min-width: 1200px; /* Ensure table maintains minimum width */
         }
 
         thead {
@@ -847,15 +897,17 @@
             h1 {
                 font-size: 1.8em;
             }
-            .summary h2{}
+            .summary h2{font-size: 1.8em;}
             .bangla-title {
                 font-size: 1.5em;
-                margin-top: 30px;
+                margin-top: 10px;
             }
             .content {
                  padding: 20px 5px;
            }
+                 .info-item{ padding: 15px;}
             .summary{padding: 20px;}
+            .simulation-intro{text-align: center; font-size: 1em;}
             .simulation-controls{    padding: 10px;}
             .stats-grid {
                 grid-template-columns: 1fr;
@@ -1060,7 +1112,11 @@
                     </select>
                 </div>
 
-                <div class="table-container">
+                <div class="scroll-hint" id="scrollHint">
+                    Scroll horizontally to see more <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+                </div>
+
+                <div class="table-container" id="tableContainer">
                     <table id="combinedTable">
                         <thead>
                             <tr>
@@ -10222,6 +10278,17 @@
 
         // Initialize - scroll to top
         window.scrollTo(0, 0);
+
+        // Show scroll hint if table is scrollable
+        const tableContainer = document.getElementById('tableContainer');
+        const scrollHint = document.getElementById('scrollHint');
+        if (tableContainer.scrollWidth > tableContainer.clientWidth) {
+            scrollHint.style.display = 'block';
+            tableContainer.classList.add('has-scroll');
+        } else {
+            scrollHint.style.display = 'none';
+            tableContainer.classList.remove('has-scroll');
+        }
     </script>
 </body>
 </html>
