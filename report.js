@@ -250,9 +250,7 @@ function generateHTML(stats) {
     margin-top: -4px;
             }
 
-        .summary {
-            // background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            // color: white;
+        .summary { 
             padding: 30px;
             border-radius: 12px;
             margin-bottom:20px;
@@ -952,15 +950,21 @@ function generateHTML(stats) {
             h1 {
                 font-size: 1.8em;
             }
-            
+            .summary h2{}
             .bangla-title {
                 font-size: 1.5em;
+                margin-top: 30px;
             }
-            
+            .content {
+                 padding: 20px 5px;
+           }
+            .summary{padding: 20px;}
+            .simulation-controls{    padding: 10px;}
             .stats-grid {
                 grid-template-columns: 1fr;
             }
-            
+                .simulation-section h2{    font-size: 1.5em;}
+            .simulation-section{    padding: 20px 10px;}
             .party-header {
                 flex-direction: column;
                 text-align: center;
@@ -970,7 +974,14 @@ function generateHTML(stats) {
             .party-stats {
                 text-align: center;
             }
-            
+                info-text{font-size: 0.9em;}
+            .btn-submit, .btn-reset{font-size: .8rem;    padding: 10px 10px;}
+            .stat-label{font-size: 18px;}
+          .stat-number {font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    line-height: 1;
+    }
             table {
                 font-size: 0.9em;
             }
@@ -1091,7 +1102,7 @@ function generateHTML(stats) {
                         <div class="stat-label">BNP</div>
                         <div class="stat-number" id="bnpSeatsWon">${stats.bnpWins}</div>
                         <div class="stat-label">Seats Won</div>
-                        <div style="margin-top: 15px; font-size: 1.1em;">
+                        <div style="margin-top:5px; font-size: 1.1em;">
                             Total Votes: <span id="bnpTotalVotes">${stats.bnpTotalVotes.toLocaleString()}</span>
                         </div>
                     </div>
@@ -1103,7 +1114,7 @@ function generateHTML(stats) {
                         <div class="stat-label">NCP/Jamaat Alliance</div>
                         <div class="stat-number" id="allianceSeatsWon">${stats.allianceWins}</div>
                         <div class="stat-label">Seats Won</div>
-                        <div style="margin-top: 15px; font-size: 1.1em;">
+                        <div style="margin-top:5px; font-size: 1.1em;">
                             Total Votes: <span id="allianceTotalVotes">${stats.allianceTotalVotes.toLocaleString()}</span>
                         </div>
                     </div>

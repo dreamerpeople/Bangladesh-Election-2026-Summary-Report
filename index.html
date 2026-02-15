@@ -147,8 +147,7 @@
     margin-top: -4px;
             }
 
-        .summary {
-        
+        .summary { 
             padding: 30px;
             border-radius: 12px;
             margin-bottom:20px;
@@ -848,15 +847,21 @@
             h1 {
                 font-size: 1.8em;
             }
-            
+            .summary h2{}
             .bangla-title {
                 font-size: 1.5em;
+                margin-top: 30px;
             }
-            
+            .content {
+                 padding: 20px 5px;
+           }
+            .summary{padding: 20px;}
+            .simulation-controls{    padding: 10px;}
             .stats-grid {
                 grid-template-columns: 1fr;
             }
-            
+                .simulation-section h2{    font-size: 1.5em;}
+            .simulation-section{    padding: 20px 10px;}
             .party-header {
                 flex-direction: column;
                 text-align: center;
@@ -866,7 +871,14 @@
             .party-stats {
                 text-align: center;
             }
-            
+                info-text{font-size: 0.9em;}
+            .btn-submit, .btn-reset{font-size: .8rem;    padding: 10px 10px;}
+            .stat-label{font-size: 18px;}
+          .stat-number {font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    line-height: 1;
+    }
             table {
                 font-size: 0.9em;
             }
@@ -920,7 +932,7 @@
                    Bangladesh Election 2026 Result Summary
                 </h2>
                 <p><strong>Winning Party: BNP</strong></p>
-                <p>BNP secured <strong>212 out of 300 seats</strong>, marking a significant victory in the ১৩তম জাতীয় সংসদ নির্বাচন. The NCP and Jamaat Alliance (overall) won <strong>77 out of 300 seats</strong>.</p>
+                <p>BNP secured <strong>212 out of 300 seats</strong>, marking a significant victory in the ১৩তম জাতীয় সংসদ নির্বাচন. The NCP and Jamaat Alliance (overall) won <strong>7 out of 300 seats</strong>.</p>
                 <p>The election witnessed a high voter turnout, with registered voters exceeding ১২.৭৭ কোটি and a total of ৪২,৭৭৯ voting centers across the country. A total of ৬০ political parties participated in the election, showcasing a vibrant democratic process.</p>
                
             </div>
@@ -987,7 +999,7 @@
                         <div class="stat-label">BNP</div>
                         <div class="stat-number" id="bnpSeatsWon">212</div>
                         <div class="stat-label">Seats Won</div>
-                        <div style="margin-top: 15px; font-size: 1.1em;">
+                        <div style="margin-top:5px; font-size: 1.1em;">
                             Total Votes: <span id="bnpTotalVotes">34,961,933</span>
                         </div>
                     </div>
@@ -999,7 +1011,7 @@
                         <div class="stat-label">NCP/Jamaat Alliance</div>
                         <div class="stat-number" id="allianceSeatsWon">77</div>
                         <div class="stat-label">Seats Won</div>
-                        <div style="margin-top: 15px; font-size: 1.1em;">
+                        <div style="margin-top:5px; font-size: 1.1em;">
                             Total Votes: <span id="allianceTotalVotes">24,065,231</span>
                         </div>
                     </div>
