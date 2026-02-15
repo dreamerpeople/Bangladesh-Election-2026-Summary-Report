@@ -1,0 +1,24 @@
+{
+  "name": "bd-election-result-script-2026",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "create": "node result-script-2026.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "cheerio": "^1.2.0",
+    "csv-parse": "^6.1.0",
+    "csv-stringify": "^6.6.0",
+    "he": "^1.2.0",
+    "p-limit": "^7.3.0",
+    "puppeteer": "^21.11.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

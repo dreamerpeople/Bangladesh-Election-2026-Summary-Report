@@ -1,0 +1,3966 @@
+{
+  "Barisal": {
+    "Barguna": [
+      {
+        "SeatId": "1",
+        "SeatName": "Barguna-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Nazrul Islam Molla",
+        "Votes": 136145
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Barguna-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Dr. Sultan Ahmed",
+        "Votes": 85247
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Barguna-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Nurul Islam",
+        "Votes": 90643
+      }
+    ],
+    "Barishal": [
+      {
+        "SeatId": "1",
+        "SeatName": "Barishal-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Kamrul Islam Khan",
+        "Votes": 46263
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Barishal-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Zahir Uddin Swapan",
+        "Votes": 100552
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Barishal-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abdul Mannan",
+        "Votes": 74082
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Barishal-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sardar Sarfuddin Ahmed",
+        "Votes": 141622
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Barishal-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Zainul Abedin",
+        "Votes": 80930
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Barishal-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Rajib Ahsan",
+        "Votes": 128322
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Barishal-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Abdul Jabbar",
+        "Votes": 74684
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Barishal-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mujibur Rahman Sarwar",
+        "Votes": 135146
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Barishal-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Abul Hossain Khan",
+        "Votes": 82217
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Barishal-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mahmudunnabi",
+        "Votes": 55988
+      }
+    ],
+    "Bhola": [
+      {
+        "SeatId": "1",
+        "SeatName": "Bhola-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Nazrul Islam",
+        "Votes": 75337
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Bhola-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Hafiz Ibrahim",
+        "Votes": 119085
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Bhola-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Fazlul Karim",
+        "Votes": 93703
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Bhola-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Hafiz Uddin Ahmed",
+        "Votes": 145990
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Bhola-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Mustafa Kamal",
+        "Votes": 81437
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Bhola-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Nurul Islam",
+        "Votes": 189351
+      }
+    ],
+    "Jhalokathi": [
+      {
+        "SeatId": "1",
+        "SeatName": "Jhalokathi-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Fayzul Huq",
+        "Votes": 55120
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Jhalokathi-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Rafiqul Islam Jamal",
+        "Votes": 62010
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Jhalokathi-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Esrat Sultana Elen Bhutto",
+        "Votes": 113419
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Jhalokathi-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "SM Neamul Karim",
+        "Votes": 70556
+      }
+    ],
+    "Patuakhali": [
+      {
+        "SeatId": "1",
+        "SeatName": "Patuakhali-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Altaf Hossain Chowdhury",
+        "Votes": 152087
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Patuakhali-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shafiqul Islam",
+        "Votes": 100750
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Patuakhali-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shahidul Alam Talukder",
+        "Votes": 72676
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Patuakhali-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Shah Alam",
+        "Votes": 16255
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Patuakhali-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "ABM Mosharraf Hossain",
+        "Votes": 124013
+      }
+    ],
+    "Pirojpur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Pirojpur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Alamgir Hossain",
+        "Votes": 107105
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Pirojpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Masud Sayeedi",
+        "Votes": 132659
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Pirojpur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Ahmed Sohel Monjur",
+        "Votes": 105185
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Pirojpur-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Shamim Sayeedi",
+        "Votes": 96897
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Pirojpur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Ruhul Amin Dulal",
+        "Votes": 63791
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Pirojpur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shamim Hamidi",
+        "Votes": 36616
+      }
+    ]
+  },
+  "Chattogram": {
+    "Bandarban": [
+      {
+        "SeatId": "1",
+        "SeatName": "Bandarban-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abu Saeed Md. Sujauddin",
+        "Votes": 26162
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Bandarban-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Saching Prue",
+        "Votes": 141455
+      }
+    ],
+    "Brahmanbaria": [
+      {
+        "SeatId": "1",
+        "SeatName": "Brahmanbaria-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "A. K. M. Aminul Islam",
+        "Votes": 24430
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Brahmanbaria-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "M. A. Hannan",
+        "Votes": 68092
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Brahmanbaria-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Ashraf Uddin",
+        "Votes": 0
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Brahmanbaria-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Ataullah",
+        "Votes": 62547
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Brahmanbaria-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Khaled Hossain Mahbub",
+        "Votes": 209636
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Brahmanbaria-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Ataur Rahman Sarker",
+        "Votes": 91796
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Brahmanbaria-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mushfiqur Rahman",
+        "Votes": 139842
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Brahmanbaria-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abdul Mannan",
+        "Votes": 85769
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Brahmanbaria-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mohsin",
+        "Votes": 39976
+      }
+    ],
+    "Chandpur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Chandpur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "A N M Ehsanul Hoque Milon",
+        "Votes": 133032
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Chandpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abu Nasar Mohammad Makbol Ahmad",
+        "Votes": 70368
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Chandpur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Jalal Uddin",
+        "Votes": 172506
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Chandpur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shahjahan Miah",
+        "Votes": 100865
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Chandpur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sk Farid Ahmed",
+        "Votes": 165404
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Chandpur-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Billal Hossain Miaji",
+        "Votes": 0
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Chandpur-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Harunur Rashid",
+        "Votes": 69155
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Chandpur-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Maminul Haque",
+        "Votes": 185404
+      }
+    ],
+    "Chattogram": [
+      {
+        "SeatId": "1",
+        "SeatName": "Chattogram-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Saifur Rahaman",
+        "Votes": 84538
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Chattogram-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Nurul Amin",
+        "Votes": 128799
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Chattogram-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Sarowar Alamgir",
+        "Votes": 0
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Chattogram-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Nurul Amin",
+        "Votes": 0
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Chattogram-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mostafa Kamal Pasha",
+        "Votes": 73037
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Chattogram-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammed Ala Uddin",
+        "Votes": 39662
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Chattogram-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md Aslam Chowdhury",
+        "Votes": 0
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Chattogram-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Anwar Siddique",
+        "Votes": 0
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Chattogram-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mir Mohammed Helal Uddin",
+        "Votes": 147054
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Chattogram-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Gias Uddin Quader Chowdhury",
+        "Votes": 112237
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Chattogram-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shahajahan Monjo",
+        "Votes": 0
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Chattogram-7",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "A T M Rezaul Karim",
+        "Votes": 41719
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Chattogram-7",
+        "Party": "BNP (overall)",
+        "CandidateName": "Humam Quader Chowdhury",
+        "Votes": 101445
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Chattogram-8",
+        "Party": "BNP (overall)",
+        "CandidateName": "Ershad Ullah",
+        "Votes": 152969
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Chattogram-8",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abu Naser",
+        "Votes": 53564
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Chattogram-8",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Jubairul Hasan Arif",
+        "Votes": 0
+      },
+      {
+        "SeatId": "9",
+        "SeatName": "Chattogram-9",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Dr. A. K. M. Fazlul Hoque",
+        "Votes": 53807
+      },
+      {
+        "SeatId": "9",
+        "SeatName": "Chattogram-9",
+        "Party": "BNP (overall)",
+        "CandidateName": "Muhammad Abu Sufian",
+        "Votes": 109388
+      },
+      {
+        "SeatId": "10",
+        "SeatName": "Chattogram-10",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Shamsuzzaman Helaly",
+        "Votes": 76919
+      },
+      {
+        "SeatId": "10",
+        "SeatName": "Chattogram-10",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sayeed Al Noman",
+        "Votes": 122978
+      },
+      {
+        "SeatId": "11",
+        "SeatName": "Chattogram-11",
+        "Party": "BNP (overall)",
+        "CandidateName": "Amir Khosru Mahmud Chowdhury",
+        "Votes": 115999
+      },
+      {
+        "SeatId": "11",
+        "SeatName": "Chattogram-11",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Shafiul Alam",
+        "Votes": 76681
+      },
+      {
+        "SeatId": "12",
+        "SeatName": "Chattogram-12",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md Enamul Hoque",
+        "Votes": 135044
+      },
+      {
+        "SeatId": "12",
+        "SeatName": "Chattogram-12",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md Faridul Alam",
+        "Votes": 0
+      },
+      {
+        "SeatId": "13",
+        "SeatName": "Chattogram-13",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mahmudul Hassan",
+        "Votes": 0
+      },
+      {
+        "SeatId": "13",
+        "SeatName": "Chattogram-13",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sarwar Jamal Nizam",
+        "Votes": 126192
+      },
+      {
+        "SeatId": "14",
+        "SeatName": "Chattogram-14",
+        "Party": "BNP (overall)",
+        "CandidateName": "Alhajj Jashim Uddin Ahammed",
+        "Votes": 76493
+      },
+      {
+        "SeatId": "15",
+        "SeatName": "Chattogram-15",
+        "Party": "BNP (overall)",
+        "CandidateName": "Najmul Mostafa Amin",
+        "Votes": 130661
+      },
+      {
+        "SeatId": "15",
+        "SeatName": "Chattogram-15",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Shahjahan Chowdhury",
+        "Votes": 181238
+      },
+      {
+        "SeatId": "16",
+        "SeatName": "Chattogram-16",
+        "Party": "BNP (overall)",
+        "CandidateName": "Miskatul Islam Chowdhury",
+        "Votes": 83105
+      },
+      {
+        "SeatId": "16",
+        "SeatName": "Chattogram-16",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Zahirul Islam",
+        "Votes": 93167
+      }
+    ],
+    "Cumilla": [
+      {
+        "SeatId": "1",
+        "SeatName": "Cumilla-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Dr. Khandaker Mosharraf Hossain",
+        "Votes": 141440
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Cumilla-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Moniruzzaman",
+        "Votes": 94845
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Cumilla-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Nazim Uddin",
+        "Votes": 0
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Cumilla-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Selim Bhuiyan",
+        "Votes": 77037
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Cumilla-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Kazi Shah Mofazzal Hossain (Kaikobad)",
+        "Votes": 159291
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Cumilla-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Yousuf Sohel",
+        "Votes": 109599
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Cumilla-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abul Hasnat",
+        "Votes": 166583
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Cumilla-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Jashim Uddin",
+        "Votes": 134485
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Cumilla-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mobarak Hossen",
+        "Votes": 124547
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Cumilla-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Kazi Din Mohammed",
+        "Votes": 119851
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Cumilla-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Monirul Haque Chowdhury",
+        "Votes": 201706
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Cumilla-7",
+        "Party": "BNP (overall)",
+        "CandidateName": "Redwan Ahmed",
+        "Votes": 48509
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Cumilla-8",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shafiqul Alam Helal",
+        "Votes": 45091
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Cumilla-8",
+        "Party": "BNP (overall)",
+        "CandidateName": "Zakaria Taher",
+        "Votes": 169178
+      },
+      {
+        "SeatId": "9",
+        "SeatName": "Cumilla-9",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abul Kalam",
+        "Votes": 170008
+      },
+      {
+        "SeatId": "9",
+        "SeatName": "Cumilla-9",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Syed A. K. M. Sarowar Uddin Seddique",
+        "Votes": 118961
+      },
+      {
+        "SeatId": "10",
+        "SeatName": "Cumilla-10",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mobasher Alam Bhuiyan",
+        "Votes": 163667
+      },
+      {
+        "SeatId": "10",
+        "SeatName": "Cumilla-10",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Yasin Arafath",
+        "Votes": 123733
+      },
+      {
+        "SeatId": "11",
+        "SeatName": "Cumilla-11",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Kamrul Huda",
+        "Votes": 76638
+      },
+      {
+        "SeatId": "11",
+        "SeatName": "Cumilla-11",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Syed Abdullah Mohammed Taher",
+        "Votes": 133308
+      }
+    ],
+    "Feni": [
+      {
+        "SeatId": "1",
+        "SeatName": "Feni-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Munshi Rafiqul Alam",
+        "Votes": 119904
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Feni-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "S. M. Kamal Uddin",
+        "Votes": 85615
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Feni-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Joynal Abdin",
+        "Votes": 131210
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Feni-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Fakhruddin",
+        "Votes": 108160
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Feni-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mr. Abdul Awal Mintu",
+        "Votes": 157425
+      }
+    ],
+    "Khagrachhari": [
+      {
+        "SeatId": "1",
+        "SeatName": "Khagrachhari-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Abdul Wadud Bhuiyan",
+        "Votes": 151040
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Khagrachhari-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Eyakub Ali",
+        "Votes": 0
+      }
+    ],
+    "Lakshmipur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Lakshmipur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mahbub Alam",
+        "Votes": 59265
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Lakshmipur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shahadat Hossain",
+        "Votes": 86811
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Lakshmipur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abul Khair Bhuiyan",
+        "Votes": 146321
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Lakshmipur-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "S. U. M Ruhul Amin Bhuiyan",
+        "Votes": 133698
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Lakshmipur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Rezaul Karim",
+        "Votes": 122802
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Lakshmipur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shahiduddin Chowdhury Annie",
+        "Votes": 135612
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Lakshmipur-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "A. B. M Ashraf Uddin (Nizan)",
+        "Votes": 115199
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Lakshmipur-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Ashrafur Rahman Hafizullah",
+        "Votes": 73756
+      }
+    ],
+    "Noakhali": [
+      {
+        "SeatId": "1",
+        "SeatName": "Noakhali-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "A. M. Mahbub Uddin",
+        "Votes": 126833
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Noakhali-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Saif Ullah",
+        "Votes": 98036
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Noakhali-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Sultan Muhammad Zakaria Majumder",
+        "Votes": 67054
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Noakhali-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Zainul Abdin Farooq",
+        "Votes": 83982
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Noakhali-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Barkat Ullah Bulu",
+        "Votes": 141031
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Noakhali-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Borhan Uddin",
+        "Votes": 123941
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Noakhali-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Ishaq Khandaker",
+        "Votes": 148989
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Noakhali-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shahjahan",
+        "Votes": 219182
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Noakhali-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Belayet Hossain",
+        "Votes": 120453
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Noakhali-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Fakhrul Islam",
+        "Votes": 147808
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Noakhali-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abdul Hannan Masood",
+        "Votes": 91899
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Noakhali-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mahbuber Rahman",
+        "Votes": 64021
+      }
+    ],
+    "Rangamati": [
+      {
+        "SeatId": "1",
+        "SeatName": "Rangamati-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Dipen Dewan",
+        "Votes": 201544
+      }
+    ]
+  },
+  "Dhaka": {
+    "Dhaka": [
+      {
+        "SeatId": "1",
+        "SeatName": "Dhaka-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Khondaker Abu Ashfaque",
+        "Votes": 173781
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Dhaka-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Nazrul Islam",
+        "Votes": 112622
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Dhaka-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Haque",
+        "Votes": 80053
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Dhaka-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Amanullah Aman",
+        "Votes": 163793
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Dhaka-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Goyasawar Chandra Roy",
+        "Votes": 99163
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Dhaka-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shahinur Islam",
+        "Votes": 83264
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Dhaka-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Syed Joynul Abedin",
+        "Votes": 77367
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Dhaka-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Tanveer Ahmed",
+        "Votes": 74447
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Dhaka-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Nabi Ullah",
+        "Votes": 87491
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Dhaka-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammed Kamal Hossain",
+        "Votes": 96641
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Dhaka-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Ishraque Hossain",
+        "Votes": 78850
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Dhaka-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Mannan",
+        "Votes": 55697
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Dhaka-7",
+        "Party": "BNP (overall)",
+        "CandidateName": "Hamidur Rahman",
+        "Votes": 104666
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Dhaka-7",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Enayat Ullah",
+        "Votes": 98483
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Dhaka-8",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mirza Abbas Uddin Ahmed",
+        "Votes": 59366
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Dhaka-8",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Nasiruddin Patwary",
+        "Votes": 54127
+      },
+      {
+        "SeatId": "9",
+        "SeatName": "Dhaka-9",
+        "Party": "BNP (overall)",
+        "CandidateName": "Habibur Rashid",
+        "Votes": 111212
+      },
+      {
+        "SeatId": "9",
+        "SeatName": "Dhaka-9",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Javed Mia",
+        "Votes": 53460
+      },
+      {
+        "SeatId": "9",
+        "SeatName": "Dhaka-9",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Shafi Ullah Chowdhury",
+        "Votes": 0
+      },
+      {
+        "SeatId": "10",
+        "SeatName": "Dhaka-10",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Jashim Uddin Sarker",
+        "Votes": 0
+      },
+      {
+        "SeatId": "10",
+        "SeatName": "Dhaka-10",
+        "Party": "BNP (overall)",
+        "CandidateName": "Shaikh Rabiul Alam",
+        "Votes": 0
+      },
+      {
+        "SeatId": "11",
+        "SeatName": "Dhaka-11",
+        "Party": "BNP (overall)",
+        "CandidateName": "M. A. Quayum",
+        "Votes": 91833
+      },
+      {
+        "SeatId": "11",
+        "SeatName": "Dhaka-11",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Nahid Islam",
+        "Votes": 93872
+      },
+      {
+        "SeatId": "12",
+        "SeatName": "Dhaka-12",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Saiful Alam",
+        "Votes": 53773
+      },
+      {
+        "SeatId": "13",
+        "SeatName": "Dhaka-13",
+        "Party": "BNP (overall)",
+        "CandidateName": "Bobby Hajjaj",
+        "Votes": 88387
+      },
+      {
+        "SeatId": "14",
+        "SeatName": "Dhaka-14",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mir Ahmad Binqasem",
+        "Votes": 101113
+      },
+      {
+        "SeatId": "14",
+        "SeatName": "Dhaka-14",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sanjida Islam",
+        "Votes": 83323
+      },
+      {
+        "SeatId": "15",
+        "SeatName": "Dhaka-15",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Dr. Md. Shafiqur Rahman",
+        "Votes": 85131
+      },
+      {
+        "SeatId": "15",
+        "SeatName": "Dhaka-15",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shafiqul Islam Khan",
+        "Votes": 63517
+      },
+      {
+        "SeatId": "16",
+        "SeatName": "Dhaka-16",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Baten",
+        "Votes": 88828
+      },
+      {
+        "SeatId": "16",
+        "SeatName": "Dhaka-16",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Aminul Haque",
+        "Votes": 85467
+      },
+      {
+        "SeatId": "17",
+        "SeatName": "Dhaka-17",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "S. M. Khaliduzzaman",
+        "Votes": 68300
+      },
+      {
+        "SeatId": "17",
+        "SeatName": "Dhaka-17",
+        "Party": "BNP (overall)",
+        "CandidateName": "SM Abul Kalam Azad",
+        "Votes": 0
+      },
+      {
+        "SeatId": "17",
+        "SeatName": "Dhaka-17",
+        "Party": "BNP (overall)",
+        "CandidateName": "Tarique Rahman",
+        "Votes": 72699
+      },
+      {
+        "SeatId": "18",
+        "SeatName": "Dhaka-18",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Ariful Islam",
+        "Votes": 111297
+      },
+      {
+        "SeatId": "18",
+        "SeatName": "Dhaka-18",
+        "Party": "BNP (overall)",
+        "CandidateName": "S. M. Jahangir Hossain",
+        "Votes": 144715
+      },
+      {
+        "SeatId": "19",
+        "SeatName": "Dhaka-19",
+        "Party": "BNP (overall)",
+        "CandidateName": "Dewan Mohammad Salahuddin",
+        "Votes": 190976
+      },
+      {
+        "SeatId": "19",
+        "SeatName": "Dhaka-19",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Dilshana Parul",
+        "Votes": 123283
+      },
+      {
+        "SeatId": "20",
+        "SeatName": "Dhaka-20",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Tamiz Uddin",
+        "Votes": 162504
+      },
+      {
+        "SeatId": "20",
+        "SeatName": "Dhaka-20",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Nabila Tasnid",
+        "Votes": 57787
+      }
+    ],
+    "Faridpur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Faridpur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Khandaker Nasirul Islam",
+        "Votes": 126475
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Faridpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Elias Molla",
+        "Votes": 154772
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Faridpur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Shama Obaid Islam",
+        "Votes": 121694
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Faridpur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdut Tawab",
+        "Votes": 124115
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Faridpur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Nayab Yusuf Ahmed",
+        "Votes": 148545
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Faridpur-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Sarwar Hossain",
+        "Votes": 75805
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Faridpur-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shahidul Islam",
+        "Votes": 127443
+      }
+    ],
+    "Gazipur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Gazipur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Muzibur Rahman",
+        "Votes": 208688
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Gazipur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shah Alam Bakshi",
+        "Votes": 149553
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Gazipur-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Ali Naser Khan",
+        "Votes": 140950
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Gazipur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "M. Manjurul Karim Roni",
+        "Votes": 188606
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Gazipur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "S. M. Rafiqul Islam",
+        "Votes": 162343
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Gazipur-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Salah Uddin",
+        "Votes": 101779
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Gazipur-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Shah Reazul Hannan",
+        "Votes": 90390
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Gazipur-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "A. K. M. Fazlul Haque Milan",
+        "Votes": 133869
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Gazipur-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Khairul Hassan",
+        "Votes": 78123
+      }
+    ],
+    "Gopalganj": [
+      {
+        "SeatId": "1",
+        "SeatName": "Gopalganj-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Selimuzzaman Mollah",
+        "Votes": 69462
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Gopalganj-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Abdul Hamid Molla",
+        "Votes": 0
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Gopalganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "K. M. Babar",
+        "Votes": 40048
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Gopalganj-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "S. M. Zilany",
+        "Votes": 60991
+      }
+    ],
+    "Kishoreganj": [
+      {
+        "SeatId": "1",
+        "SeatName": "Kishoreganj-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Mazharul Islam",
+        "Votes": 124035
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Kishoreganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Advocat Md. Jalal Uddin",
+        "Votes": 143669
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Kishoreganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Billal Hossain",
+        "Votes": 0
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Kishoreganj-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammed Shafiqul Islam",
+        "Votes": 120975
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Kishoreganj-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Dr. Muhammad Osman Farruk",
+        "Votes": 112466
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Kishoreganj-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Zehad Khan",
+        "Votes": 102476
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Kishoreganj-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Fazlur Rahman",
+        "Votes": 132472
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Kishoreganj-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Rokan Reza Sheikh",
+        "Votes": 57829
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Kishoreganj-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Ramjan Ali",
+        "Votes": 0
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Kishoreganj-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sayed Ehsanul Huda",
+        "Votes": 66450
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Kishoreganj-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shariful Alam",
+        "Votes": 187159
+      }
+    ],
+    "Madaripur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Madaripur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Nadira Akhter",
+        "Votes": 64524
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Madaripur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Jahandar Ali Mia",
+        "Votes": 61744
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Madaripur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Anisur Rahman",
+        "Votes": 96188
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Madaripur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Rafiqul Islam",
+        "Votes": 84646
+      }
+    ],
+    "Manikganj": [
+      {
+        "SeatId": "1",
+        "SeatName": "Manikganj-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abu Bakr Siddique",
+        "Votes": 71310
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Manikganj-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "S. A. Jinnah Kabir",
+        "Votes": 137773
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Manikganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Moinul Islam Khan",
+        "Votes": 175776
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Manikganj-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Afroza Khanam",
+        "Votes": 167345
+      }
+    ],
+    "Munshiganj": [
+      {
+        "SeatId": "1",
+        "SeatName": "Munshiganj-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "AKM Fakhruddin Raji",
+        "Votes": 101568
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Munshiganj-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abdullah",
+        "Votes": 167562
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Munshiganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Abdus Salam Azad",
+        "Votes": 121154
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Munshiganj-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Majedul Islam",
+        "Votes": 58573
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Munshiganj-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Kamruzzaman",
+        "Votes": 124691
+      }
+    ],
+    "Narayanganj": [
+      {
+        "SeatId": "1",
+        "SeatName": "Narayanganj-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Anwar Hossain Mollah",
+        "Votes": 91690
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Narayanganj-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mostafizur Rahman Bhuiyan",
+        "Votes": 158358
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Narayanganj-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Ilias Mollah",
+        "Votes": 81054
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Narayanganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Nazrul Islam Azad",
+        "Votes": 124291
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Narayanganj-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Azharul Islam Mannan",
+        "Votes": 155400
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Narayanganj-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Iqbal Hossain Bhuiyan",
+        "Votes": 134918
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Narayanganj-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abdullah Al Amin",
+        "Votes": 106171
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Narayanganj-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Abul Kalam",
+        "Votes": 114799
+      }
+    ],
+    "Narsingdi": [
+      {
+        "SeatId": "1",
+        "SeatName": "Narsingdi-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Khairul Kabir Khokon",
+        "Votes": 161405
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Narsingdi-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Ibrahim Bhuiyan",
+        "Votes": 95349
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Narsingdi-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Dr. Abdul Moin Khan",
+        "Votes": 92739
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Narsingdi-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Amjad Hossain",
+        "Votes": 55920
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Narsingdi-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Golam Sarwar",
+        "Votes": 0
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Narsingdi-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Manzoor Elahi",
+        "Votes": 82061
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Narsingdi-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mostafizur Rahman",
+        "Votes": 0
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Narsingdi-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Jahangir Alam",
+        "Votes": 78744
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Narsingdi-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sardar Md. Sakhawat Hossain",
+        "Votes": 163392
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Narsingdi-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Ashraf Uddin",
+        "Votes": 137690
+      }
+    ],
+    "Rajbari": [
+      {
+        "SeatId": "1",
+        "SeatName": "Rajbari-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Ali Nawaz Mahmud Khayum",
+        "Votes": 154541
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Rajbari-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Nurul Islam",
+        "Votes": 101092
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Rajbari-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Jamil Hijazi",
+        "Votes": 67299
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Rajbari-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Harun-ur-Rashid",
+        "Votes": 237254
+      }
+    ],
+    "Shariatpur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Shariatpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdur Rahman",
+        "Votes": 0
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Shariatpur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sayeed Ahmed",
+        "Votes": 77398
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Shariatpur-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mahmud Hossain",
+        "Votes": 70892
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Shariatpur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shafiqur Rahman (Kiran)",
+        "Votes": 129814
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Shariatpur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mia Nuruddin Ahmed Apu",
+        "Votes": 107516
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Shariatpur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Azaharul Islam",
+        "Votes": 69684
+      }
+    ],
+    "Tangail": [
+      {
+        "SeatId": "1",
+        "SeatName": "Tangail-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Faqir Mahbub Anam",
+        "Votes": 153932
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Tangail-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Abdullahel Kafi",
+        "Votes": 94462
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Tangail-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abdus Salam Pintu",
+        "Votes": 198213
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Tangail-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Humayon Kabir",
+        "Votes": 60871
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Tangail-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "SM Obaidul Haque",
+        "Votes": 82769
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Tangail-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Saifullah Hyder",
+        "Votes": 0
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Tangail-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Khandaker Abdur Razzaque",
+        "Votes": 0
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Tangail-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Lutfor Rahman",
+        "Votes": 105342
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Tangail-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Ahsan Habib",
+        "Votes": 80283
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Tangail-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sultan Salauddin Tuku",
+        "Votes": 131279
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Tangail-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "A.K.M. Abdul Hamid",
+        "Votes": 91914
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Tangail-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Robiul Awal",
+        "Votes": 150952
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Tangail-7",
+        "Party": "BNP (overall)",
+        "CandidateName": "Abul Kalam Azad Siddique",
+        "Votes": 141253
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Tangail-7",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Abdullah Ibne Abul Hosain",
+        "Votes": 71040
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Tangail-8",
+        "Party": "BNP (overall)",
+        "CandidateName": "Ahmed Azam Khan",
+        "Votes": 114217
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Tangail-8",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shafiqul Islam Khan",
+        "Votes": 0
+      }
+    ]
+  },
+  "Khulna": {
+    "Bagerhat": [
+      {
+        "SeatId": "1",
+        "SeatName": "Bagerhat-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Kapil Krishna Mandal",
+        "Votes": 114323
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Bagerhat-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mashiur Rahman Khan",
+        "Votes": 117527
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Bagerhat-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Sheikh Manjurul Haque (Rahad)",
+        "Votes": 117709
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Bagerhat-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sheikh Mohammad Zakir Hossain",
+        "Votes": 66409
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Bagerhat-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammed Abdul Wadud Sheikh",
+        "Votes": 83705
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Bagerhat-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sheikh Faridul Islam",
+        "Votes": 103711
+      }
+    ],
+    "Chuadanga": [
+      {
+        "SeatId": "1",
+        "SeatName": "Chuadanga-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Masud Parves",
+        "Votes": 211041
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Chuadanga-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Sharifuzzaman",
+        "Votes": 153193
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Chuadanga-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mahmud Hasan Khan",
+        "Votes": 163877
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Chuadanga-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Ruhul Amin",
+        "Votes": 208011
+      }
+    ],
+    "Jashore": [
+      {
+        "SeatId": "1",
+        "SeatName": "Jashore-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Nuruzzaman Liton",
+        "Votes": 93542
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Jashore-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Azizur Rahman",
+        "Votes": 119093
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Jashore-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shamsul Haque",
+        "Votes": 233
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Jashore-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Moslehuddin Farid",
+        "Votes": 180965
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Jashore-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Ms. Sabira Sultana",
+        "Votes": 146447
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Jashore-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Anindya Islam Amit",
+        "Votes": 201339
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Jashore-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Quader",
+        "Votes": 187463
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Jashore-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Matiar Rahman Faraji",
+        "Votes": 131917
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Jashore-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Golam Rasul",
+        "Votes": 176912
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Jashore-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Gazi Enamul Haque",
+        "Votes": 132876
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Jashore-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Rashid Ahmad",
+        "Votes": 54875
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Jashore-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Abul Hossain Azad",
+        "Votes": 80141
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Jashore-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Moktar Ali",
+        "Votes": 92234
+      }
+    ],
+    "Jhenaidah": [
+      {
+        "SeatId": "1",
+        "SeatName": "Jhenaidah-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abu Salah Md. Motiur Rahman",
+        "Votes": 57055
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Jhenaidah-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Asaduzzaman",
+        "Votes": 173381
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Jhenaidah-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Ali Azam Md. Abu Bakr",
+        "Votes": 195702
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Jhenaidah-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abdul Mazid",
+        "Votes": 175984
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Jhenaidah-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Motiar Rahman",
+        "Votes": 175857
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Jhenaidah-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Mahadi Hassan",
+        "Votes": 149821
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Jhenaidah-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abu Taleb",
+        "Votes": 105999
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Jhenaidah-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Rashed Khan",
+        "Votes": 0
+      }
+    ],
+    "Khulna": [
+      {
+        "SeatId": "1",
+        "SeatName": "Khulna-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Amir Ezaz Khan",
+        "Votes": 121352
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Khulna-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Krishno Nandy",
+        "Votes": 70346
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Khulna-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Nazrul Islam Manju",
+        "Votes": 88197
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Khulna-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Sk. Zahangir Hossain Helal",
+        "Votes": 93789
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Khulna-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Mahfuzur Rahman",
+        "Votes": 66010
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Khulna-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Rakibul Islam",
+        "Votes": 74845
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Khulna-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Azizul Baree Helal",
+        "Votes": 123162
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Khulna-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mia Golam Porwar",
+        "Votes": 146246
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Khulna-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Ali Asghar",
+        "Votes": 148854
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Khulna-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abul Kalam Azad",
+        "Votes": 150724
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Khulna-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "S M Monirul Hassan (Bappi)",
+        "Votes": 124710
+      }
+    ],
+    "Kushtia": [
+      {
+        "SeatId": "1",
+        "SeatName": "Kushtia-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhommad Belal Uddin",
+        "Votes": 86682
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Kushtia-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Reza Ahammed",
+        "Votes": 165909
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Kushtia-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Gafur",
+        "Votes": 192083
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Kushtia-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Raghib Rauf Chowdhury",
+        "Votes": 143821
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Kushtia-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Amir Hamza",
+        "Votes": 180690
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Kushtia-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Zakir Hossain Sarker",
+        "Votes": 126909
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Kushtia-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Afjal Hossain",
+        "Votes": 148201
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Kushtia-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Syed Mehdi Ahmed Roomy",
+        "Votes": 139603
+      }
+    ],
+    "Magura": [
+      {
+        "SeatId": "1",
+        "SeatName": "Magura-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abdul Matin",
+        "Votes": 89691
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Magura-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Monowar Hossain",
+        "Votes": 185338
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Magura-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mushtarshed Billah",
+        "Votes": 117018
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Magura-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Nitai Roy Chowdhury",
+        "Votes": 147896
+      }
+    ],
+    "Meherpur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Meherpur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Masud Arun",
+        "Votes": 105441
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Meherpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Tajuddin Khan",
+        "Votes": 123271
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Meherpur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Amjad Hossain",
+        "Votes": 85988
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Meherpur-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Nazmul Huda",
+        "Votes": 96306
+      }
+    ],
+    "Narail": [
+      {
+        "SeatId": "1",
+        "SeatName": "Narail-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Biswas Jahangir Alam",
+        "Votes": 99975
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Narail-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Obaidullah",
+        "Votes": 75225
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Narail-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "A. Z. M. Fariduzzaman",
+        "Votes": 0
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Narail-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Ataur Rahman",
+        "Votes": 118142
+      }
+    ],
+    "Satkhira": [
+      {
+        "SeatId": "1",
+        "SeatName": "Satkhira-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Izzat Ullah",
+        "Votes": 193772
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Satkhira-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abdur Rouf",
+        "Votes": 116293
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Satkhira-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Abdul Khaliq",
+        "Votes": 266959
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Satkhira-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Hafez Muhaj Rabiul Bashar",
+        "Votes": 184233
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Satkhira-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Kazi Alauddin",
+        "Votes": 0
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Satkhira-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "G. M. Nazrul Islam",
+        "Votes": 105805
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Satkhira-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Moniruzzaman",
+        "Votes": 84868
+      }
+    ]
+  },
+  "Mymensingh": {
+    "Jamalpur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Jamalpur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "M Rashiduzzaman Millat",
+        "Votes": 173656
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Jamalpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Nazmul Haque Sayeedi",
+        "Votes": 97820
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Jamalpur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "A. E. Sultan Mahmud Babu",
+        "Votes": 95860
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Jamalpur-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Samiul Haque",
+        "Votes": 62434
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Jamalpur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mujibur Rahman Azadi",
+        "Votes": 81430
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Jamalpur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mustafizur Rahman Babul",
+        "Votes": 207412
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Jamalpur-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Faridul Kabir Talukder",
+        "Votes": 147406
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Jamalpur-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Abdus Sattar",
+        "Votes": 113201
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Jamalpur-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Shah Md. Wares Ali Mamun",
+        "Votes": 199344
+      }
+    ],
+    "Mymensingh": [
+      {
+        "SeatId": "1",
+        "SeatName": "Mymensingh-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Syed Imran Saleh",
+        "Votes": 101926
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Mymensingh-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Motahar Hossain Talukder",
+        "Votes": 118438
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Mymensingh-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "M Iqbal Hossain",
+        "Votes": 75320
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Mymensingh-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abu Wahab Akand Wahid",
+        "Votes": 179668
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Mymensingh-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Kamrul Ahsan",
+        "Votes": 171880
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Mymensingh-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Matiur Rahman Akand",
+        "Votes": 102226
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Mymensingh-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Zakir Hossain",
+        "Votes": 128896
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Mymensingh-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Akhtarul Alam",
+        "Votes": 0
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Mymensingh-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Kamrul Hasan",
+        "Votes": 77325
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Mymensingh-7",
+        "Party": "BNP (overall)",
+        "CandidateName": "Dr. Md. Mahabubur Rahman",
+        "Votes": 99049
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Mymensingh-7",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Asaduzzaman",
+        "Votes": 84851
+      },
+      {
+        "SeatId": "8",
+        "SeatName": "Mymensingh-8",
+        "Party": "BNP (overall)",
+        "CandidateName": "Lutfullahel Majed",
+        "Votes": 108685
+      },
+      {
+        "SeatId": "9",
+        "SeatName": "Mymensingh-9",
+        "Party": "BNP (overall)",
+        "CandidateName": "Yaser Khan Chowdhury",
+        "Votes": 85761
+      },
+      {
+        "SeatId": "10",
+        "SeatName": "Mymensingh-10",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Ismail",
+        "Votes": 0
+      },
+      {
+        "SeatId": "10",
+        "SeatName": "Mymensingh-10",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Akhtaruzzaman",
+        "Votes": 75585
+      },
+      {
+        "SeatId": "11",
+        "SeatName": "Mymensingh-11",
+        "Party": "BNP (overall)",
+        "CandidateName": "Fakhr Uddin Ahmed",
+        "Votes": 111230
+      },
+      {
+        "SeatId": "11",
+        "SeatName": "Mymensingh-11",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Zahidul Islam",
+        "Votes": 0
+      }
+    ],
+    "Netrakona": [
+      {
+        "SeatId": "1",
+        "SeatName": "Netrakona-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Barrister Kaiser Kamal",
+        "Votes": 158343
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Netrakona-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Anwarul Haque",
+        "Votes": 171399
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Netrakona-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Fahim Rahman Khan Pathan",
+        "Votes": 67367
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Netrakona-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Khairul Kabir Niyogi",
+        "Votes": 0
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Netrakona-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Rafiqul Islam Hilali",
+        "Votes": 118469
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Netrakona-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Al-Helal",
+        "Votes": 39840
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Netrakona-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Lutfuzzaman Babar",
+        "Votes": 160801
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Netrakona-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Masum Mustafa",
+        "Votes": 82177
+      }
+    ],
+    "Sherpur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Sherpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Likhon Mia",
+        "Votes": 456
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Sherpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Rashidul Islam Rashed",
+        "Votes": 127811
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Sherpur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sansila Zebrin",
+        "Votes": 78342
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Sherpur-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Golam Kibria",
+        "Votes": 108335
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Sherpur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Fahim Chowdhury",
+        "Votes": 118472
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Sherpur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mahmudul Haque Rubel",
+        "Votes": 0
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Sherpur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Nuruzzaman",
+        "Votes": 0
+      }
+    ]
+  },
+  "Rajshahi": {
+    "Bogura": [
+      {
+        "SeatId": "1",
+        "SeatName": "Bogura-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Kazi Rafiqul Islam",
+        "Votes": 171440
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Bogura-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shahabuddin",
+        "Votes": 57959
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Bogura-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abul Azad Mohammad Shahaduzzaman",
+        "Votes": 93548
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Bogura-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mir Shah Alam",
+        "Votes": 145024
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Bogura-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abdul Mohit Talukder",
+        "Votes": 127406
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Bogura-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Noor Mohammad",
+        "Votes": 111026
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Bogura-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mosharraf Hossain",
+        "Votes": 155339
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Bogura-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mustafa Faisal",
+        "Votes": 108978
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Bogura-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Gulam Mohammad Siraj",
+        "Votes": 248841
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Bogura-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Dabibur Rahman",
+        "Votes": 143329
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Bogura-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abidur Rahman",
+        "Votes": 0
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Bogura-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Tarique Rahman",
+        "Votes": 0
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Bogura-7",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Golam Rabbani",
+        "Votes": 0
+      },
+      {
+        "SeatId": "7",
+        "SeatName": "Bogura-7",
+        "Party": "BNP (overall)",
+        "CandidateName": "Morshed Milton",
+        "Votes": 158196
+      }
+    ],
+    "Chapainawabganj": [
+      {
+        "SeatId": "1",
+        "SeatName": "Chapainawabganj-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Keramat Ali",
+        "Votes": 206893
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Chapainawabganj-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shahjahan Mia",
+        "Votes": 162515
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Chapainawabganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Aminul Islam",
+        "Votes": 155119
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Chapainawabganj-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mizanur Rahman",
+        "Votes": 171227
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Chapainawabganj-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Harunur Rashid",
+        "Votes": 127037
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Chapainawabganj-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Nurul Islam",
+        "Votes": 189640
+      }
+    ],
+    "Joypurhat": [
+      {
+        "SeatId": "1",
+        "SeatName": "Joypurhat-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Fazlur Rahman Sayed",
+        "Votes": 165192
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Joypurhat-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Masud Rana Prodhan",
+        "Votes": 155309
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Joypurhat-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abdul Bari",
+        "Votes": 158065
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Joypurhat-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "SM Rashedul Alom",
+        "Votes": 92517
+      }
+    ],
+    "Naogaon": [
+      {
+        "SeatId": "1",
+        "SeatName": "Naogaon-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mahbubul Alam",
+        "Votes": 153816
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Naogaon-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mostafizur Rahman",
+        "Votes": 173864
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Naogaon-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Enamul Haque",
+        "Votes": 141526
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Naogaon-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shamsuzzoha Khan",
+        "Votes": 134533
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Naogaon-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Abdullah Al Mamun Sykat",
+        "Votes": 0
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Naogaon-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Fazle Huda",
+        "Votes": 166889
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Naogaon-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mahfuzur Rahman",
+        "Votes": 119421
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Naogaon-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Ekramul Bari Tipu",
+        "Votes": 133924
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Naogaon-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdur Rakib",
+        "Votes": 97585
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Naogaon-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abu Sadat Md. Sayem",
+        "Votes": 104747
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Naogaon-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Zahidul Islam Dhulu",
+        "Votes": 129358
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Naogaon-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Khabirul Islam",
+        "Votes": 97629
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Naogaon-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Sheikh Md. Rezaul Islam",
+        "Votes": 108866
+      }
+    ],
+    "Natore": [
+      {
+        "SeatId": "1",
+        "SeatName": "Natore-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Farzana Sharmin",
+        "Votes": 102726
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Natore-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abul Kalam Azad",
+        "Votes": 90568
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Natore-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "M. Ruhul Quddus Talukder Dulu",
+        "Votes": 162841
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Natore-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Yunus Ali",
+        "Votes": 130066
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Natore-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Anwarul Islam",
+        "Votes": 119768
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Natore-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "S. M. Zarzis Kadir",
+        "Votes": 20707
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Natore-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abdul Aziz",
+        "Votes": 170551
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Natore-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Hakim",
+        "Votes": 135386
+      }
+    ],
+    "Pabna": [
+      {
+        "SeatId": "1",
+        "SeatName": "Pabna-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shamsur Rahman",
+        "Votes": 104245
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Pabna-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Nojibur Rahman",
+        "Votes": 129974
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Pabna-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "A. K. M. Selim Reza Habib",
+        "Votes": 215406
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Pabna-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Hesab Uddin",
+        "Votes": 77242
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Pabna-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Hasan Zafir Tuhin",
+        "Votes": 144206
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Pabna-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Ali Asghar",
+        "Votes": 147465
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Pabna-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abu Taleb Mandal",
+        "Votes": 137675
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Pabna-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Habibur Rahman (Habib)",
+        "Votes": 133874
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Pabna-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Iqbal Hossain",
+        "Votes": 164994
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Pabna-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shamsur Rahman Shimul Biswas",
+        "Votes": 181925
+      }
+    ],
+    "Rajshahi": [
+      {
+        "SeatId": "1",
+        "SeatName": "Rajshahi-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mujibur Rahman",
+        "Votes": 171786
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Rajshahi-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Sharif Uddin",
+        "Votes": 169902
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Rajshahi-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mizanur Rahman",
+        "Votes": 188546
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Rajshahi-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Jahangir",
+        "Votes": 100370
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Rajshahi-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abul Kalam Azad",
+        "Votes": 137927
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Rajshahi-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Shafiqul Haque Milon",
+        "Votes": 176318
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Rajshahi-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "D. M. D. Ziaur Rahman",
+        "Votes": 109461
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Rajshahi-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Bari Sarkar",
+        "Votes": 115226
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Rajshahi-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Manjur Rahman",
+        "Votes": 73445
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Rajshahi-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Professor Nazrul Islam",
+        "Votes": 153425
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Rajshahi-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abu Sayed Chad",
+        "Votes": 147672
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Rajshahi-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Nazmul Haque",
+        "Votes": 92965
+      }
+    ],
+    "Sirajganj": [
+      {
+        "SeatId": "1",
+        "SeatName": "Sirajganj-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Selim Reza",
+        "Votes": 116613
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Sirajganj-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shahinur Alam",
+        "Votes": 108815
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Sirajganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Iqbal Hassan Mahmud",
+        "Votes": 177578
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Sirajganj-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Muhammad Zahidul Islam",
+        "Votes": 138797
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Sirajganj-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Aynul Haque",
+        "Votes": 174430
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Sirajganj-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "M Akbar Ali",
+        "Votes": 161278
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Sirajganj-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Rafiqul Islam Khan",
+        "Votes": 161872
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Sirajganj-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Ali Alam",
+        "Votes": 106805
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Sirajganj-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Amirul Islam Khan",
+        "Votes": 134989
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Sirajganj-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "M.A. Muhit",
+        "Votes": 171508
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Sirajganj-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "S. M. Saif Mostafiz",
+        "Votes": 103884
+      }
+    ]
+  },
+  "Rangpur": {
+    "Dinajpur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Dinajpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Matiur Rahman",
+        "Votes": 117481
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Dinajpur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Monjurul Islam",
+        "Votes": 179314
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Dinajpur-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "A. K. M. Afjalul Anam",
+        "Votes": 101831
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Dinajpur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Sadiq Reaz",
+        "Votes": 144317
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Dinajpur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Maynul Alam",
+        "Votes": 134618
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Dinajpur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Syed Jahangir Alam",
+        "Votes": 139207
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Dinajpur-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Akhtaruzzaman Mia",
+        "Votes": 165577
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Dinajpur-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Aftab Uddin Mollah",
+        "Votes": 127666
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Dinajpur-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "AKM Qamruzzaman",
+        "Votes": 0
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Dinajpur-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Ahad",
+        "Votes": 108948
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Dinajpur-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Abu Zafar Md. Zahid Hossain",
+        "Votes": 203887
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Dinajpur-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Anowarul Islam",
+        "Votes": 188719
+      }
+    ],
+    "Gaibandha": [
+      {
+        "SeatId": "1",
+        "SeatName": "Gaibandha-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Khandoker Ziaul Islam Mohammad Ali",
+        "Votes": 37997
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Gaibandha-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mazedur Rahman",
+        "Votes": 140726
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Gaibandha-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Karim",
+        "Votes": 122630
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Gaibandha-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Anisuzzaman Khan Babu",
+        "Votes": 92890
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Gaibandha-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abul Kausar Mohammad Nazrul Islam",
+        "Votes": 163457
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Gaibandha-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Professor Dr. Syed Mainul Hassain Sadik",
+        "Votes": 139864
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Gaibandha-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdur Rahim Sarkar",
+        "Votes": 139738
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Gaibandha-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Shamim Kaiser",
+        "Votes": 142772
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Gaibandha-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Wares",
+        "Votes": 89274
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Gaibandha-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Faruk Alam Sarker",
+        "Votes": 73483
+      }
+    ],
+    "Kurigram": [
+      {
+        "SeatId": "1",
+        "SeatName": "Kurigram-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Anwarul Islam",
+        "Votes": 141090
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Kurigram-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Saifur Rahman Rana",
+        "Votes": 123025
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Kurigram-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Atiqur Rahman Mujahid",
+        "Votes": 178869
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Kurigram-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Sohel Hosnain Kaikobad",
+        "Votes": 170335
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Kurigram-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mahbubul Alam",
+        "Votes": 107930
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Kurigram-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Tasvir Ul Islam",
+        "Votes": 79352
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Kurigram-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Azizur Rahman",
+        "Votes": 84423
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Kurigram-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mostafizur Rahman",
+        "Votes": 108210
+      }
+    ],
+    "Lalmonirhat": [
+      {
+        "SeatId": "1",
+        "SeatName": "Lalmonirhat-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Anwarul Islam Raju",
+        "Votes": 129572
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Lalmonirhat-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Hasan Rajib Prodhan",
+        "Votes": 138686
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Lalmonirhat-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Firoz Haider",
+        "Votes": 117252
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Lalmonirhat-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Rokon Uddin Babul",
+        "Votes": 123946
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Lalmonirhat-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Asadul Habib Dulu",
+        "Votes": 139651
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Lalmonirhat-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abu Taher",
+        "Votes": 56244
+      }
+    ],
+    "Nilphamari": [
+      {
+        "SeatId": "1",
+        "SeatName": "Nilphamari-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdus Sattar",
+        "Votes": 149224
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Nilphamari-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Sirajul Islam",
+        "Votes": 0
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Nilphamari-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Al Faruq Abdul Latif",
+        "Votes": 145202
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Nilphamari-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shirajul Islam",
+        "Votes": 0
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Nilphamari-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Shahrin Islam",
+        "Votes": 134579
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Nilphamari-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Alhaj Syed Ali",
+        "Votes": 89102
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Nilphamari-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Obaidullah Salafi",
+        "Votes": 108560
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Nilphamari-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abdul Muntakim",
+        "Votes": 124865
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Nilphamari-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Abdul Gafur Sarker",
+        "Votes": 81526
+      }
+    ],
+    "Panchagarh": [
+      {
+        "SeatId": "1",
+        "SeatName": "Panchagarh-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Barrister Muhammad Nawshad Zamir",
+        "Votes": 176169
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Panchagarh-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Sarjis Alam",
+        "Votes": 168049
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Panchagarh-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shirajul Islam",
+        "Votes": 0
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Panchagarh-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Farhad Hossain Azad",
+        "Votes": 174650
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Panchagarh-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shafiul Alam",
+        "Votes": 128862
+      }
+    ],
+    "Rangpur": [
+      {
+        "SeatId": "1",
+        "SeatName": "Rangpur-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mokarram Hossain Sujan",
+        "Votes": 69407
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Rangpur-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Raihan Siraji",
+        "Votes": 145088
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Rangpur-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "ATM Azharul Islam",
+        "Votes": 43076
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Rangpur-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Ali Sarkar",
+        "Votes": 22100
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Rangpur-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mahbubur Rahman (Belal)",
+        "Votes": 175827
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Rangpur-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shamsuzzaman Samu",
+        "Votes": 84578
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Rangpur-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Akhtar Hossain",
+        "Votes": 147947
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Rangpur-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Emdadul Haque Bhorsa",
+        "Votes": 139616
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Rangpur-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Golam Rabbani",
+        "Votes": 175208
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Rangpur-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Golam Rabbani",
+        "Votes": 114141
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Rangpur-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Nurul Amin",
+        "Votes": 118890
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Rangpur-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Saiful Islam",
+        "Votes": 116919
+      }
+    ],
+    "Thakurgaon": [
+      {
+        "SeatId": "1",
+        "SeatName": "Thakurgaon-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Delwar Hossain",
+        "Votes": 141017
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Thakurgaon-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mirza Fakhrul Islam Alamgir",
+        "Votes": 238836
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Thakurgaon-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Dr. Md. Abdus Salam",
+        "Votes": 121017
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Thakurgaon-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Hakim",
+        "Votes": 115707
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Thakurgaon-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Jahidur Rahaman",
+        "Votes": 132797
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Thakurgaon-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Mizanur Rahman",
+        "Votes": 91934
+      }
+    ]
+  },
+  "Sylhet": {
+    "Habiganj": [
+      {
+        "SeatId": "1",
+        "SeatName": "Habiganj-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Reza Kibria",
+        "Votes": 111999
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Habiganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Abu Mansur Sakhawat Hasan",
+        "Votes": 126583
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Habiganj-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Alhaj Md. G.K. Gaus",
+        "Votes": 142348
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Habiganj-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Kazi Mohsin Ahmed",
+        "Votes": 45568
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Habiganj-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "S. M. Faisal",
+        "Votes": 188072
+      }
+    ],
+    "Moulvibazar": [
+      {
+        "SeatId": "1",
+        "SeatName": "Moulvibazar-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Aminul Islam",
+        "Votes": 83013
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Moulvibazar-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Nasir Uddin Ahmed",
+        "Votes": 98282
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Moulvibazar-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Sayed Ali",
+        "Votes": 53458
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Moulvibazar-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Shawkatul Islam",
+        "Votes": 88381
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Moulvibazar-3",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Abdul Mannan",
+        "Votes": 77636
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Moulvibazar-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Nasser Rahman",
+        "Votes": 156757
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Moulvibazar-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Mujibur Rahman Chowdhury",
+        "Votes": 169608
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Moulvibazar-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Pritam Das",
+        "Votes": 0
+      }
+    ],
+    "Sunamganj": [
+      {
+        "SeatId": "1",
+        "SeatName": "Sunamganj-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Kamruzzaman Kamrul",
+        "Votes": 161774
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Sunamganj-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Tofael Ahmed",
+        "Votes": 92966
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Sunamganj-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Md. Nasir Chowdhury",
+        "Votes": 99522
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Sunamganj-2",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Shishir Monir",
+        "Votes": 63220
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Sunamganj-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Kayshar Ahmed",
+        "Votes": 97313
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Sunamganj-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Shams Uddin",
+        "Votes": 75735
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Sunamganj-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Nurul Islam",
+        "Votes": 98092
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Sunamganj-5",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Abu Tahir Muhammad Abdus Salam",
+        "Votes": 102121
+      },
+      {
+        "SeatId": "5",
+        "SeatName": "Sunamganj-5",
+        "Party": "BNP (overall)",
+        "CandidateName": "Kalim Uddin Ahmed",
+        "Votes": 151915
+      }
+    ],
+    "Sylhet": [
+      {
+        "SeatId": "1",
+        "SeatName": "Sylhet-1",
+        "Party": "BNP (overall)",
+        "CandidateName": "Khandaker Abdul Muktadir",
+        "Votes": 173932
+      },
+      {
+        "SeatId": "1",
+        "SeatName": "Sylhet-1",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Maulana Habibur Rahman",
+        "Votes": 134983
+      },
+      {
+        "SeatId": "2",
+        "SeatName": "Sylhet-2",
+        "Party": "BNP (overall)",
+        "CandidateName": "Ms. Tahsina Rushdeer",
+        "Votes": 117956
+      },
+      {
+        "SeatId": "3",
+        "SeatName": "Sylhet-3",
+        "Party": "BNP (overall)",
+        "CandidateName": "Mohammad Abdul Malik",
+        "Votes": 115450
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Sylhet-4",
+        "Party": "BNP (overall)",
+        "CandidateName": "Ariful Haque Chowdhury",
+        "Votes": 186846
+      },
+      {
+        "SeatId": "4",
+        "SeatName": "Sylhet-4",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Md. Joynal Abedin",
+        "Votes": 71391
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Sylhet-6",
+        "Party": "BNP (overall)",
+        "CandidateName": "Emran Ahmed Chowdhury",
+        "Votes": 109917
+      },
+      {
+        "SeatId": "6",
+        "SeatName": "Sylhet-6",
+        "Party": "NCP/Jamaat Alliance (overall)",
+        "CandidateName": "Mohammad Selim Uddin",
+        "Votes": 101569
+      }
+    ]
+  }
+}
