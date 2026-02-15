@@ -215,4 +215,4 @@ For questions, issues, or contributions, please contact the project maintainers.
 
 ---
 
-**© 2026 Bangladesh Election Commission | All Rights Reserved**
+**© 2026 Dreamer People LLC | All Rights Reserved**
