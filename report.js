@@ -1026,7 +1026,7 @@ function generateHTML(stats) {
                 <p><strong>Winning Party: BNP</strong></p>
                 <p>BNP secured <strong>${stats.bnpWins} out of 300 seats</strong>, marking a significant victory in the ১৩তম জাতীয় সংসদ নির্বাচন. The NCP and Jamaat Alliance (overall) won <strong>${stats.allianceWins} out of 300 seats</strong>.</p>
                 <p>The election witnessed a high voter turnout, with registered voters exceeding ১২.৭৭ কোটি and a total of ৪২,৭৭৯ voting centers across the country. A total of ৬০ political parties participated in the election, showcasing a vibrant democratic process.</p>
-                <p>BNP's success can be attributed to its effective campaign strategy and widespread support among voters. The party's strong performance was evident across various divisions, with notable wins in key districts.</p>
+               
             </div>
 
             <!-- Simulation Section -->
