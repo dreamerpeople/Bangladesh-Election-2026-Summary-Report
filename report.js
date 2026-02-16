@@ -1410,11 +1410,11 @@ function generateHTML(stats) {
                                             <span class="detail-value"><strong>${c.BNPVotes.toLocaleString()}</strong></span>
                                         </div>
                                         <div class="detail-item">
-                                            <span class="detail-label">👤 Alliance Candidate:</span>
+                                            <span class="detail-label">👤 NCP/JAMAT Alliance Candidate:</span>
                                             <span class="detail-value">${c.AllianceCandidate}</span>
                                         </div>
                                         <div class="detail-item">
-                                            <span class="detail-label">🗳️ Alliance Votes:</span>
+                                            <span class="detail-label">🗳️  NCP/JAMAT Alliance Votes:</span>
                                             <span class="detail-value"><strong>${c.AllianceVotes.toLocaleString()}</strong></span>
                                         </div>
                                         <div class="detail-item">
@@ -1573,6 +1573,7 @@ function generateHTML(stats) {
                 // Get original votes from data attributes
                 const originalBNPVotes = parseInt(row.getAttribute('data-bnp-votes'));
                 const originalAllianceVotes = parseInt(row.getAttribute('data-alliance-votes'));
+                const rowIndex = row.getAttribute('data-row-index');
                 
                 // Skip rows with invalid data
                 if (isNaN(originalBNPVotes) || isNaN(originalAllianceVotes)) {
@@ -1647,6 +1648,39 @@ function generateHTML(stats) {
                     row.setAttribute('data-winner', 'non-winner');
                 }
                 
+                // *** UPDATE MOBILE DETAIL ROW ***
+                if (rowIndex) {
+                    const detailRow = document.getElementById('details-' + rowIndex);
+                    if (detailRow) {
+                        const detailItems = detailRow.querySelectorAll('.detail-item');
+                        detailItems.forEach(item => {
+                            const label = item.querySelector('.detail-label');
+                            const valueSpan = item.querySelector('.detail-value');
+                            
+                            if (label && valueSpan) {
+                                const labelText = label.textContent;
+                                
+                                if (labelText.includes('🗳️ BNP Votes:')) {
+                                    valueSpan.innerHTML = '<strong>' + newBNPVotes.toLocaleString() + '</strong>';
+                                } else if (labelText.includes('🗳️ Alliance Votes:')) {
+                                    valueSpan.innerHTML = '<strong>' + newAllianceVotes.toLocaleString() + '</strong>';
+                                } else if (labelText.includes('📊 Vote Difference:')) {
+                                    const diffClass = voteDiff > 0 ? 'positive' : 'negative';
+                                    valueSpan.innerHTML = '<span class="vote-difference ' + diffClass + '">' + (voteDiff > 0 ? '+' : '') + voteDiff.toLocaleString() + '</span>';
+                                } else if (labelText.includes('🏆 Winner:')) {
+                                    if (winner === 'BNP') {
+                                        valueSpan.innerHTML = '<strong>🟢 BNP</strong>';
+                                    } else if (winner === 'Alliance') {
+                                        valueSpan.innerHTML = '<strong>🟢 NCP/Jamaat Alliance</strong>';
+                                    } else {
+                                        valueSpan.innerHTML = '<strong>-</strong>';
+                                    }
+                                }
+                            }
+                        });
+                    }
+                }
+                
                 // Accumulate total votes
                 bnpTotalVotes += newBNPVotes;
                 allianceTotalVotes += newAllianceVotes;
@@ -1707,6 +1741,7 @@ function generateHTML(stats) {
                 // Get original votes from data attributes
                 const originalBNPVotes = parseInt(row.getAttribute('data-bnp-votes'));
                 const originalAllianceVotes = parseInt(row.getAttribute('data-alliance-votes'));
+                const rowIndex = row.getAttribute('data-row-index');
                 
                 // Skip rows with invalid data
                 if (isNaN(originalBNPVotes) || isNaN(originalAllianceVotes)) {
@@ -1771,6 +1806,39 @@ function generateHTML(stats) {
                 } else {
                     row.classList.remove('winner-row');
                     row.setAttribute('data-winner', 'non-winner');
+                }
+                
+                // *** RESET MOBILE DETAIL ROW ***
+                if (rowIndex) {
+                    const detailRow = document.getElementById('details-' + rowIndex);
+                    if (detailRow) {
+                        const detailItems = detailRow.querySelectorAll('.detail-item');
+                        detailItems.forEach(item => {
+                            const label = item.querySelector('.detail-label');
+                            const valueSpan = item.querySelector('.detail-value');
+                            
+                            if (label && valueSpan) {
+                                const labelText = label.textContent;
+                                
+                                if (labelText.includes('🗳️ BNP Votes:')) {
+                                    valueSpan.innerHTML = '<strong>' + originalBNPVotes.toLocaleString() + '</strong>';
+                                } else if (labelText.includes('🗳️ Alliance Votes:')) {
+                                    valueSpan.innerHTML = '<strong>' + originalAllianceVotes.toLocaleString() + '</strong>';
+                                } else if (labelText.includes('📊 Vote Difference:')) {
+                                    const diffClass = voteDiff > 0 ? 'positive' : 'negative';
+                                    valueSpan.innerHTML = '<span class="vote-difference ' + diffClass + '">' + (voteDiff > 0 ? '+' : '') + voteDiff.toLocaleString() + '</span>';
+                                } else if (labelText.includes('🏆 Winner:')) {
+                                    if (winner === 'BNP') {
+                                        valueSpan.innerHTML = '<strong>🟢 BNP</strong>';
+                                    } else if (winner === 'Alliance') {
+                                        valueSpan.innerHTML = '<strong>🟢 NCP/Jamaat Alliance</strong>';
+                                    } else {
+                                        valueSpan.innerHTML = '<strong>-</strong>';
+                                    }
+                                }
+                            }
+                        });
+                    }
                 }
                 
                 // Accumulate original total votes
