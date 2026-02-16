@@ -605,6 +605,26 @@
             border-color: #667eea;
         }
 
+        .btn-filter-reset {
+            padding: 10px 20px;
+            border: 2px solid #667eea;
+            border-radius: 8px;
+            font-size: 1em;
+            background: #667eea;
+            color: white;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+
+        .btn-filter-reset:hover {
+            background: #764ba2;
+            border-color: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+
         .scroll-hint {
             display: none;
             background: #667eea;
@@ -1217,6 +1237,7 @@
                         <option value="winner">Winners Only</option>
                         <option value="non-winner">Non-Winners Only</option>
                     </select>
+                    <button class="btn-filter-reset" onclick="resetFilters()">Reset Filters</button>
                 </div>
 
                 <div class="scroll-hint" id="scrollHint">
@@ -24274,6 +24295,13 @@
                     noResults.remove();
                 }
             }
+        }
+
+        function resetFilters() {
+            document.getElementById('combinedSearch').value = '';
+            document.getElementById('combinedDivisionFilter').value = '';
+            document.getElementById('combinedWinnerFilter').value = '';
+            filterTable('combinedTable', 'combinedSearch');
         }
 
         // Print functionality
